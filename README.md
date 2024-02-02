@@ -7,8 +7,11 @@ For our hardwork, we charge a 1wei fee (the smallest unit of gas, you won't even
 Our contract is deployed on:
 
 MAINNET:
+
 Mode: 0x3565041a3a060199101F3768a47677732D6901d6
 
-TESTNET
-Talka testnet: 0x8181DeE11E3E4BF8aDeD436EE499bE7132151bd5
-Berachain testnet: 0x3916cecADbAA33531a5BbdF85f6244Db41FC2315
+TESTNET:
+
+Talka: 0x8181DeE11E3E4BF8aDeD436EE499bE7132151bd5
+
+Berachain: 0x3916cecADbAA33531a5BbdF85f6244Db41FC2315
